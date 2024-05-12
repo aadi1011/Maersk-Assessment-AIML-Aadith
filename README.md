@@ -1,4 +1,4 @@
-# AP Moller Maersk DS-ML Coding Challenege
+# AP Moller Maersk DS-AIML Coding Challenege
 
 ## Overview
 This project aims to predict the sourcing costs of various product combinations using machine learning models. The dataset contains information about different attributes such as product type, manufacturer, area code, sourcing channel, product size, and more. The goal is to forecast the sourcing costs for June 2021 using data from July 2020 to May 2021.
